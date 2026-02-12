@@ -76,6 +76,7 @@ A standalone web tool for generating **Reception Reports** (eQSL cards) for the 
 
 Questo progetto è rilasciato per uso personale e hobbistico nel mondo del radioascolto.
 This project is released for personal and hobby use in the radio listening community.
+Tutti i diritti sono riservati al "Gruppo Italiano Radioascolto"
 
 ---
 

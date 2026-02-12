@@ -79,4 +79,4 @@ This project is released for personal and hobby use in the radio listening commu
 
 ---
 
-**73 da RA-GIR** 📡
+**73** 📡

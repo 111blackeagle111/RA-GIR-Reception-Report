@@ -80,3 +80,12 @@ This project is released for personal and hobby use in the radio listening commu
 ---
 
 **73** 📡
+---
+
+## 📸 Anteprima / Screenshot
+
+![Esempio di Reception Report RA-GIR generato](assets/RA-GIR_Reception_Report_2026-02-12.png)
+
+*Esempio di report generato per una ricezione di Radio Caroline su 648 kHz*
+
+---
